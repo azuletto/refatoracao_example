@@ -6,6 +6,14 @@ import javax.swing.JPanel;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 import javax.swing.border.EmptyBorder;
+
+import AddAuthor;
+import AddBook;
+import AddCategory;
+import AddPublication;
+import AddStudent;
+import AddSubject;
+
 import javax.swing.JLayeredPane;
 import java.awt.CardLayout;
 import javax.swing.JMenuBar;
