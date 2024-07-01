@@ -16,7 +16,6 @@ O objetivo deste trabalho é refatorar um sistema de gerenciamento de biblioteca
 
 - **Linguagem de Programação**: Java
 - **IDE**: IntelliJ IDEA
-- **Ferramenta de Refatoração**: ChatGPT-4.0 com acesso à internet
 - **Controle de Versão**: Git
 
 ---
@@ -46,7 +45,7 @@ Durante o processo de refatoração, foram identificados e corrigidos diversos c
 
 ### 📬 Contato
 
-Para mais informações ou dúvidas, entre em contato através do [email](mailto:andre.oliveira@exemplo.com).
+Para mais informações ou dúvidas, entre em contato através do [email](mailto:andre.oliveira@discente.uenp.edu.br).
 
 ---
 
