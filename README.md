@@ -1,3 +1,5 @@
+[![Documentação em PDF](https://img.shields.io/badge/Documentação-PDF-red)](https://drive.google.com/file/d/1sChw06XwaJVlNIn_RYH2vhZNpnHk5CDA/view?usp=sharing)
+
 # 📚 Refatoração de um Sistema de Bibliotecas
 
 ## Matéria: Engenharia de Software III
